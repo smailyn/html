@@ -1,0 +1,24 @@
+
+section{
+    display: block;
+}
+section .container form input{
+    width: 50%;
+    height: 50px;
+    border-radius:1em;
+    display: block; 
+}
+section .container form .btn{
+    background:orange;
+    width: 25%;
+    height: 30px;
+    border-radius:10px;
+    display: block; 
+    text-align: center;
+    border:1px solid gray;
+}
+section .container form .btn:hover{
+    background:darkorange;
+
+}
+
